@@ -5,8 +5,7 @@ function Form(props){
     return (
     <>
         <div class="card">
-        a = <input type="text" onChange={hanldeClick}/>
-        <p>b= {b}</p>
+            <input type="text" />
         </div>
     </>
     )
